@@ -1,0 +1,20 @@
+.done-true{
+    text-decoration: line-through;
+    color: grey;
+}
+.title{
+    padding: 10px !important;
+}
+.card-style{
+    padding-bottom: 4px !important;
+}
+.align-del{
+    float: right;
+}
+.form-style{
+    padding-top: 12px !important;
+    text-align: center;
+}
+.align-center{
+    text-align: center;
+}
